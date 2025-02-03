@@ -1,5 +1,0 @@
-dr homework1
-cd homework1
-touch homework1.txt
-curl -o homework.txt www.google.com
-sed -i "s/lang/language/g" homework.txt
