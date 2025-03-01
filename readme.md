@@ -23,7 +23,7 @@ Minimal Homework
 
 🟢 [LC] Majority Element
 🟢 [LC] Remove Element
-🔴 [LC] Reverse Bits
+🟢 [LC] Reverse Bits
 🔴 [LC] First Unique Character in a String
 🔴 [LC] Remove Duplicates from Sorted Array
 🔴 [LC] Convert 1D Array Into 2D Array
@@ -32,6 +32,11 @@ Recommended Homework
 
 NA
 
+
+ALGORITHMS
+
+Week 19
+Minimal Homework
 
 
 
