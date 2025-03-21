@@ -38,5 +38,8 @@ ALGORITHMS
 Week 19
 Minimal Homework
 
-
-
+🟢 [LC] Chips
+🟢 [LC] Fibonacci Number
+🟢 [LC] Hanoi
+🟢 [LC] Permutations
+🟢 [LC] Pow X N
