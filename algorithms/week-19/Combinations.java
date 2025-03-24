@@ -1,4 +1,4 @@
-//LC and GH solution 
+//LC and GH solution O(n choose k * k)
 class Solution {
   public List<List<Integer>> combine(int n, int k) {
       List<List<Integer>> combs = new ArrayList<List<Integer>>();
