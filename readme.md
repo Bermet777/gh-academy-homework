@@ -45,3 +45,11 @@ Minimal Homework
 🟢 [LC] Pow X N
 🟢 [LC] Combinations
 
+Week 20
+
+🟢 [LC] Generate Parentheses
+
+
+
+
+
