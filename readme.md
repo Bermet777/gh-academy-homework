@@ -48,6 +48,9 @@ Minimal Homework
 Week 20
 
 🟢 [LC] Generate Parentheses
+🟢 [LC] Sudoku Solver
+
+
 
 
 
