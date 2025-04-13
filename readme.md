@@ -49,6 +49,8 @@ Week 20
 
 🟢 [LC] Generate Parentheses
 🟢 [LC] Sudoku Solver
+🟢 [LC] N Queens
+
 
 
 
