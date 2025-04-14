@@ -51,8 +51,11 @@ Week 20
 🟢 [LC] Sudoku Solver
 🟢 [LC] N Queens
 
+Week 21
 
-
+🟢 [LC] 
+🟢 [LC] 
+🟢 [LC]
 
 
 
