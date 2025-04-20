@@ -50,6 +50,7 @@ Week 20
 🟢 [LC] Generate Parentheses
 🟢 [LC] Sudoku Solver
 🟢 [LC] N Queens
+🟢 [LC] Partition Equal Subset Sum
 
 Week 21
 
